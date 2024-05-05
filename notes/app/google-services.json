@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46769119457",
+    "project_id": "notes-d21e0",
+    "storage_bucket": "notes-d21e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46769119457:android:6471d18c3a195bf22d97a0",
+        "android_client_info": {
+          "package_name": "com.blackbird.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX5giEzjM6AwGCps1X_th6UvVrBQFauwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

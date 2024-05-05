@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="myTextStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/sage</item>
+    </style>
+    
+    <style name="MyTextBold" parent="myTextStyle">
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="myTextStyleLarge" parent="myTextStyle">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="myTextStyleMedium" parent="myTextStyle">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="myTextStyleSmall" parent="myTextStyle">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="myTextStyleXSmall" parent="myTextStyle">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="myTextStyleLargeBold" parent="MyTextBold">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="myTextStyleMediumBold" parent="MyTextBold">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="myTextStyleSmallBold" parent="MyTextBold">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="myTextStyleXSmallBold" parent="MyTextBold">
+        <item name="android:textSize">12sp</item>
+    </style>
+    
+</resources>
